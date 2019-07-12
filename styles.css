@@ -1,11 +1,16 @@
 #navbar {
-    background-color: red;
+    background-color: midnightblue;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    overflow: hidden;
+    height: 44px;
 }
 
 #belownav {
-
+    top: 45px;
 }
 
 .navbar_button {
-    color: blue;
+    color: snow;
 }
