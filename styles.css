@@ -1,9 +1,9 @@
 #navbar {
+    background-color: midnightblue;
     position: fixed;
     top: 0px;
     width: 100%;
     overflow: hidden;
-    height: 44px;
 }
 
 #belownav {
@@ -13,8 +13,9 @@
 .navbar_button {
     background-color: midnightblue;
     color: snow;
-    margin: 10px 20px;
+    margin: 15px 20px;
     font-size: 25px;
+    font-family: Arial Black;
 }
 
 .navbar_button:hover {
