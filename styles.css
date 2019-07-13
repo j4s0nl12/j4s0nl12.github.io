@@ -1,5 +1,4 @@
 #navbar {
-    background-color: midnightblue;
     position: fixed;
     top: 0px;
     width: 100%;
@@ -12,10 +11,10 @@
 }
 
 .navbar_button {
+    background-color: midnightblue;
     color: snow;
     margin: 10px 20px;
     font-size: 25px;
-    
 }
 
 .navbar_button:hover {
