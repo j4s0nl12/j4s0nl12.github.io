@@ -8,8 +8,8 @@
 }
 
 #navbuttonholder {
-    margin-left: 15%;
-    margin-top: 4px;
+    margin-left: 12%;
+    margin-top: 5px;
 }
 
 #belownav {
@@ -21,7 +21,8 @@
     color: snow;
     margin: 15px 20px;
     font-size: 22px;
-    font-family: impact;
+    font-family: arial black;
+    text-decoration: initial;
 }
 
 .navbar_button:hover {
