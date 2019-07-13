@@ -4,9 +4,8 @@
     top: 0px;
     width: 100%;
     overflow: hidden;
-    height: 44px;
-    text-align: right;
-    margin-right: 50px;
+    height: 40px;
+    margin-left: 15%
 }
 
 #belownav {
@@ -17,8 +16,8 @@
     background-color: midnightblue;
     color: snow;
     margin: 15px 20px;
-    font-size: 25px;
-    font-family: arial black;
+    font-size: 22px;
+    font-family: impact;
 }
 
 .navbar_button:hover {
