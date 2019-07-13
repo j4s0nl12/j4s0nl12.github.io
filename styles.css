@@ -5,7 +5,8 @@
     width: 100%;
     overflow: hidden;
     height: 44px;
-    text-align: center;
+    text-align: right;
+    margin-right: 50px;
 }
 
 #belownav {
@@ -17,7 +18,7 @@
     color: snow;
     margin: 15px 20px;
     font-size: 25px;
-    font-family: impact;
+    font-family: arial black;
 }
 
 .navbar_button:hover {
