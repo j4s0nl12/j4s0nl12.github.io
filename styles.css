@@ -4,6 +4,8 @@
     top: 0px;
     width: 100%;
     overflow: hidden;
+    height: 44px;
+    text-align: center;
 }
 
 #belownav {
