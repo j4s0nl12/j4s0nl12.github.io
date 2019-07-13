@@ -5,7 +5,11 @@
     width: 100%;
     overflow: hidden;
     height: 40px;
-    margin-left: 15%
+}
+
+#navbuttonholder {
+    margin-left: 15%;
+    vertical-align: center;
 }
 
 #belownav {
