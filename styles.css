@@ -8,9 +8,17 @@
 }
 
 #belownav {
-    top: 45px;
+    margin-top: 45px;
 }
 
 .navbar_button {
     color: snow;
+    margin: 10px 20px;
+    font-size: 25px;
+    
+}
+
+.navbar_button:hover {
+    background-color: snow;
+    color: black;
 }
